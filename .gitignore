@@ -1,0 +1,4 @@
+/src/main/resources/example.env
+/.idea/
+/target/
+/databases/bot.db
